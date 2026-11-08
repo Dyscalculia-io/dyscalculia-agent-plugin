@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dyscalculia",
+  "version": "1.0.0",
+  "description": "Cited dyscalculia statistics from dyscalculia.io: prevalence by study and age, 93 references with DOI/PMID, chart datasets on persistence, math anxiety, interventions and comorbidity, and how the five-game screening test works.",
+  "author": {
+    "name": "Dyscalculia.io",
+    "email": "hi@dyscalculia.io",
+    "url": "https://dyscalculia.io"
+  },
+  "homepage": "https://dyscalculia.io/mcp",
+  "repository": "https://github.com/Dyscalculia-io/dyscalculia-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "dyscalculia",
+    "math-learning-disability",
+    "prevalence",
+    "research",
+    "citations",
+    "mcp"
+  ]
+}

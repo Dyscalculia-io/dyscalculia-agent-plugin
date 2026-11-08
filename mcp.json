@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "dyscalculia": {
+      "type": "streamable-http",
+      "url": "https://mcp.dyscalculia.io/mcp"
+    }
+  }
+}
