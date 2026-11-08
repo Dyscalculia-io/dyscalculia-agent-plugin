@@ -1,0 +1,27 @@
+{
+  "$schema": "https://cursor.com/schemas/cursor-plugin/plugin.json",
+  "name": "dyscalculia",
+  "displayName": "Dyscalculia.io",
+  "version": "1.0.0",
+  "description": "Cited dyscalculia statistics and screening-test facts from Dyscalculia.io: a skill plus its hosted MCP server (read-only, no key).",
+  "author": {
+    "name": "Dyscalculia.io",
+    "email": "hi@dyscalculia.io",
+    "url": "https://dyscalculia.io"
+  },
+  "publisher": "Dyscalculia.io",
+  "homepage": "https://dyscalculia.io/mcp",
+  "repository": "https://github.com/Dyscalculia-io/dyscalculia-agent-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "category": "developer-tools",
+  "keywords": [
+    "dyscalculia",
+    "research",
+    "education",
+    "mcp",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
